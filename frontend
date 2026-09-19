@@ -1,0 +1,6 @@
+# This file keeps the frontend/ directory tracked by Git.
+# The frontend/ folder will contain the FitFlow client application
+# (Flutter project: iOS, Android, and Web targets).
+#
+# Remove this file once the Flutter project is initialized with:
+#   flutter create .
