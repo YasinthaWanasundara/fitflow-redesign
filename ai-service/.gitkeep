@@ -1,0 +1,4 @@
+# Keeps ai-service/ tracked by Git.
+# Will hold the FitFlow AI microservice (Python + FastAPI)
+# for workout plan generation and nutrition analysis.
+# Remove once the FastAPI project is initialized.

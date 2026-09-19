@@ -1,0 +1,16 @@
+# This file keeps the backend/ directory tracked by Git.
+# The backend/ folder will contain the FitFlow API and business logic
+# service (NestJS — Node.js + TypeScript).
+#
+# Planned structure once initialized:
+#   backend/
+#   ├── src/
+#   │   ├── modules/
+#   │   ├── common/
+#   │   └── main.ts
+#   ├── test/
+#   ├── package.json
+#   └── tsconfig.json
+#
+# Remove this file once the NestJS project is initialized with:
+#   nest new .
